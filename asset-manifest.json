@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/KDT-IaaS-1-ProjectA-team-introduction/static/css/main.f855e6bc.css",
-    "main.js": "/KDT-IaaS-1-ProjectA-team-introduction/static/js/main.606cba75.js",
+    "main.js": "/KDT-IaaS-1-ProjectA-team-introduction/static/js/main.9c7b666e.js",
     "static/js/787.a4b45000.chunk.js": "/KDT-IaaS-1-ProjectA-team-introduction/static/js/787.a4b45000.chunk.js",
     "static/media/logo.svg": "/KDT-IaaS-1-ProjectA-team-introduction/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/KDT-IaaS-1-ProjectA-team-introduction/index.html",
     "main.f855e6bc.css.map": "/KDT-IaaS-1-ProjectA-team-introduction/static/css/main.f855e6bc.css.map",
-    "main.606cba75.js.map": "/KDT-IaaS-1-ProjectA-team-introduction/static/js/main.606cba75.js.map",
+    "main.9c7b666e.js.map": "/KDT-IaaS-1-ProjectA-team-introduction/static/js/main.9c7b666e.js.map",
     "787.a4b45000.chunk.js.map": "/KDT-IaaS-1-ProjectA-team-introduction/static/js/787.a4b45000.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.606cba75.js"
+    "static/js/main.9c7b666e.js"
   ]
 }
